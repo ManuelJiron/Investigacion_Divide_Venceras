@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.exe.config
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.exe
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.pdb
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.exe
+C:\Users\manue\source\repos\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.pdb
